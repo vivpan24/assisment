@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assisment/static/css/main.e6c13ad2.css",
+    "main.js": "/assisment/static/js/main.3ffccdf8.js",
+    "static/js/453.3587c974.chunk.js": "/assisment/static/js/453.3587c974.chunk.js",
+    "index.html": "/assisment/index.html",
+    "main.e6c13ad2.css.map": "/assisment/static/css/main.e6c13ad2.css.map",
+    "main.3ffccdf8.js.map": "/assisment/static/js/main.3ffccdf8.js.map",
+    "453.3587c974.chunk.js.map": "/assisment/static/js/453.3587c974.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3ffccdf8.js"
+  ]
+}
